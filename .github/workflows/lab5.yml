@@ -2,9 +2,9 @@ name: My GitHub Actions Pipeline
 
 on:
   push:
-    branches: [ master ]
+    branches: [ Makovskyi ]
   pull_request:
-    branches: [ master ]
+    branches: [ Makovskyi ]
 
 jobs:
   build:
